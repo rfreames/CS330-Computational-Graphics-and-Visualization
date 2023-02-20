@@ -1,5 +1,8 @@
 # CS330-Computational-Graphics-and-Visualization
 
+![image](https://user-images.githubusercontent.com/84251346/220198402-ddf77a61-141c-4bec-8bd9-a94eeed674be.png)
+
+
 In this course, I worked with OpenGL to recreate a picture in 3D. The project includes multiple objects, textures, lighting, and camera movement. Objects were created in Blender and imported into OpenGL.
 
 These questions and the following summary relate to the final module journal:
